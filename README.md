@@ -1,9 +1,11 @@
 # World Happiness Report
 
 Introduction:
+
 Utilizing the dataset from the World Happiness Report up to 2023, an in-depth examination is conducted on the factors contributing to happiness and well-being across various nations. This dataset, pivotal for providing key insights, stands as a fundamental resource for policymakers, researchers, and individuals eager to understand the complex dynamics of global happiness.
 
 Objective:
+
 The core objective of this analysis is to illuminate the relationship between overall happiness and a set of variables, which include GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption. This investigation is critical for discerning how these elements interact to influence the happiness index in diverse countries and regions. 
 
 The analysis was conducted by addressing the following 8 business questions:
