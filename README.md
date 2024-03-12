@@ -25,3 +25,9 @@ The analysis was conducted by addressing the following 8 business questions:
 ● What is the average freedom to make life choices in countries with above-average social support?
 
 ● Identify countries that have moved above the global average happiness score over the years.
+
+
+The following is the ER Diagram: 
+
+
+![ERD 1](https://github.com/Sadhanha/World-Happiness-Report/assets/156174697/1945e432-2aa9-49e6-9f3d-ae576db42468)
